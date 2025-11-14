@@ -20,8 +20,8 @@ Python Backend – Handles API requests
 
 OpenWeather API Integration – Used to fetch accurate weather data
 
-#⚙️ Tech Stack
-#🖥️ Frontend
+⚙️ Tech Stack
+🖥️ Frontend
 
 React.js
 
